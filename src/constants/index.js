@@ -86,4 +86,4 @@ export const footerLinks = [
   "Site Map",
 ];
 
-export const sourceCode = "https://github.com/sanidhyy/apple-clone";
+export const sourceCode = "https://github.com/Divyansh089/iPhone15Pro-clone";
