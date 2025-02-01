@@ -124,7 +124,7 @@ Useful resources and dependencies that are used in Apple Clone.
 
 ## :rocket: Follow Me
 
-[![Follow Me](https://img.shields.io/github/followers/sanidhyy?style=social&label=Follow&maxAge=2592000)](https://github.com/sanidhyy "Follow Me")
+[![Follow Me](https://img.shields.io/github/followers/sanidhyy?style=social&label=Follow&maxAge=2592000)]((https://github.com/Divyansh089) "Follow Me")
 
 ## :books: Learn More
 
